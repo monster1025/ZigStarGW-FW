@@ -17,8 +17,6 @@ const char HTTP_HEADER[] PROGMEM =
     "<body>"
     "<nav class='navbar navbar-expand-lg navbar-light bg-info rounded' style='margin: 10px;'><a class='navbar-brand' href='/'><img src='img/logo.png'/> <strong>ZigStar GW</strong>"
     "</a>"
-    "<a class='navbar-brand' href='https://stand-with-ukraine.pp.ua'><img src='https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg'> </a>"
-    "<a class='navbar-brand' href='https://stand-with-ukraine.pp.ua'><img src='https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg'> </a>"
     "<button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#navbarNavDropdown' aria-controls='navbarNavDropdown' aria-expanded='false' aria-label='Toggle navigation'>"
     "<span class='navbar-toggler-icon'></span>"
     "</button>"
